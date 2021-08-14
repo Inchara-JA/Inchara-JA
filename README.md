@@ -1,9 +1,6 @@
 <h1 align="center">Hi, I'm <a href="https://inchara-ja.github.io/">INCHARA J A</a></h1>
 <h3 align="center">Learning to code is a fantastic oppurtunity equalizer-and I'm gonna rock it.</h3></br>
 
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter"></br>
-    <img src="https://komarev.com/ghpvc/?username=Inchara-JA">
-</a></br>
 
 <!-- All of my projects are available at [https://github.com/Inchara-JA](https://github.com/Inchara-JA)</br>
 
@@ -42,6 +39,10 @@
 <!-- <a href = "https://www.linkedin.com/in/inchara-j-a-887420198/"><img src="https://img.icons8.com/fluency/48/000000/linkedin-2.png" height="40" width="40" margin-right="30"/></a>     
 <a href = "https://www.instagram.com/inchara_28/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="35" width="35"/></a>
 <a href = "https://www.hackerrank.com/aarushiii73"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="35" width="40"/></a> -->
+   
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter"></br>
+    <img src="https://komarev.com/ghpvc/?username=Inchara-JA">
+</a></br>   
     
 <a href="https://www.linkedin.com/in/inchara-j-a-887420198/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/inchara_28/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> <a href="https://www.hackerrank.com/aarushiii73"><img src="https://img.shields.io/badge/hackerrank-%2312100E.svg?&style=for-the-badge&logo=hackerrank&logoColor=white" height=25></a>    
 
