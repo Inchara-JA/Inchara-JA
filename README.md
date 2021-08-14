@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <a href="https://inchara-ja.github.io/">INCHARA J A</a></h1>
+<h1 align="center">Hi, I'm <a href="https://inchara-ja.github.io/">INCHARA J A</a></h1>
 <h3 align="center">Learning to code is a fantastic oppurtunity equalizer-and I'm gonna rock it.</h3></br>
 
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter"></br>
