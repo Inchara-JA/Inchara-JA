@@ -5,7 +5,7 @@
     <img src="https://komarev.com/ghpvc/?username=Inchara-JA">
 </a></br>
 
-All of my projects are available at [https://github.com/Inchara-JA](https://github.com/Inchara-JA)</br>
+<!-- All of my projects are available at [https://github.com/Inchara-JA](https://github.com/Inchara-JA)</br>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">  
@@ -18,7 +18,7 @@ All of my projects are available at [https://github.com/Inchara-JA](https://gith
     <a href="https://www.figma.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/figma--v2.png"/> </a> 
     <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://img.icons8.com/color/48/000000/adobe-photoshop--v1.png"/> </a>
     <a href="" target="_blank"> <img src="https://img.icons8.com/color/48/000000/adobe-illustrator--v2.png"/> </a>
-</p>
+</p> -->
 <!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)-->
 <br/>
 <p align="center">
@@ -43,6 +43,6 @@ All of my projects are available at [https://github.com/Inchara-JA](https://gith
 <a href = "https://www.instagram.com/inchara_28/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="35" width="35"/></a>
 <a href = "https://www.hackerrank.com/aarushiii73"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="35" width="40"/></a> -->
     
-<a href="https://www.linkedin.com/in/inchara-j-a-887420198/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/inchara_28/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> <a href="https://www.hackerrank.com/aarushiii73"><img src="https://img.shields.io/badge/hackerrank-%FFF.svg?&style=for-the-badge&logo=hackerrank&logoColor=white" height=25></a>    
+<a href="https://www.linkedin.com/in/inchara-j-a-887420198/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/inchara_28/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> <a href="https://www.hackerrank.com/aarushiii73"><img src="https://img.shields.io/badge/hackerrank-%000.svg?&style=for-the-badge&logo=hackerrank&logoColor=white" height=25></a>    
 
 </p>
