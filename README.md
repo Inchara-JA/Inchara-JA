@@ -38,7 +38,7 @@ All of my projects are available at [https://github.com/Inchara-JA](https://gith
 <br/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href = "https://www.linkedin.com/in/inchara-j-a-887420198/"><img src="https://img.icons8.com/fluency/48/000000/linkedin-2.png" height="40" width="40"/></a></t>       
+<a href = "https://www.linkedin.com/in/inchara-j-a-887420198/"><img src="https://img.icons8.com/fluency/48/000000/linkedin-2.png" height="40" width="40" margin-right="30"/></a>      
 <a href = "https://www.instagram.com/inchara_28/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="35" width="35"/></a>
 <a href = "https://www.hackerrank.com/aarushiii73"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="35" width="40"/></a>
 
