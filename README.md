@@ -34,15 +34,16 @@
 <a href="https://github.com/Inchara-JA/github-readme-activity-graph"><img alt="Inchara J A's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Inchara-JA&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 <br/>
 <br/>
+
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter"></br>
+    <img src="https://komarev.com/ghpvc/?username=Inchara-JA">
+</a></br>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <!-- <a href = "https://www.linkedin.com/in/inchara-j-a-887420198/"><img src="https://img.icons8.com/fluency/48/000000/linkedin-2.png" height="40" width="40" margin-right="30"/></a>     
 <a href = "https://www.instagram.com/inchara_28/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="35" width="35"/></a>
-<a href = "https://www.hackerrank.com/aarushiii73"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="35" width="40"/></a> -->
-   
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter"></br>
-    <img src="https://komarev.com/ghpvc/?username=Inchara-JA">
-</a></br>   
+<a href = "https://www.hackerrank.com/aarushiii73"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="35" width="40"/></a> -->   
     
 <a href="https://www.linkedin.com/in/inchara-j-a-887420198/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/inchara_28/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> <a href="https://www.hackerrank.com/aarushiii73"><img src="https://img.shields.io/badge/hackerrank-%2312100E.svg?&style=for-the-badge&logo=hackerrank&logoColor=white" height=25></a>    
 
