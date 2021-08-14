@@ -1,12 +1,13 @@
 <h1 align="center">Hi 👋, I'm <a href="https://inchara-ja.github.io/">INCHARA J A</a></h1>
-<h3 align="center">Learning to code is a fantastic oppurtunity equalizer-and I'm gonna rock it.</h3>
+<h3 align="center">Learning to code is a fantastic oppurtunity equalizer-and I'm gonna rock it.</h3></br>
 
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Inchara-JA">
-</a>
+</a></br>
 
-All of my projects are available at [https://github.com/Inchara-JA](https://github.com/Inchara-JA)
+All of my projects are available at [https://github.com/Inchara-JA](https://github.com/Inchara-JA)</br>
 
+<h3 align="left">Languages and Tools:</h3>
 <p align="left">  
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
