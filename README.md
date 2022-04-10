@@ -24,20 +24,20 @@
     </a>
 </p>
 
-  <br/>
+<!--   <br/>
     <a href="https://github.com/Inchara-JA/github-readme-stats"><img alt="Inchara J A's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Inchara-JA&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/Inchara-JA/github-readme-stats"><img alt="Inchara J A's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Inchara-JA&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
+  <br/> -->
   
-<br/>
+<!-- <br/>
 <br/>
 <a href="https://github.com/Inchara-JA/github-readme-activity-graph"><img alt="Inchara J A's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Inchara-JA&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 <br/>
-<br/>
+<br/> -->
 
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter"></br>
+<!-- <a href="https://github.com/Meghna-DAS/github-profile-views-counter"></br>
     <img src="https://komarev.com/ghpvc/?username=Inchara-JA">
-</a></br>
+</a></br> -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
